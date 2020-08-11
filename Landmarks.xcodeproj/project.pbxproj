@@ -32,6 +32,7 @@
 		B88A45F624DFEF8E0085F364 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = B88A45F524DFEF8E0085F364 /* landmarkData.json */; };
 		B88A45F824E098580085F364 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88A45F724E098580085F364 /* Data.swift */; };
 		B88A45FA24E0A14A0085F364 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88A45F924E0A14A0085F364 /* LandmarkRow.swift */; };
+		B8BF192324E2899300ED4A9C /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B8BF192224E2899300ED4A9C /* charleyrivers.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		B88A45F524DFEF8E0085F364 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		B88A45F724E098580085F364 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		B88A45F924E0A14A0085F364 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		B8BF192224E2899300ED4A9C /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				B852EA4E24E1414E0055F872 /* stmarylake.jpg */,
 				B852EA4D24E1414E0055F872 /* turtlerock.jpg */,
 				B852EA5524E1414E0055F872 /* twinlake.jpg */,
+				B8BF192224E2899300ED4A9C /* charleyrivers.jpg */,
 				B852EA4A24E1414E0055F872 /* umbagog.jpg */,
 				B852EA5124E1414E0055F872 /* yukon_charleyrivers.jpg */,
 				B88A45F524DFEF8E0085F364 /* landmarkData.json */,
@@ -229,6 +232,7 @@
 				B88A45E324DFD2A60085F364 /* Preview Assets.xcassets in Resources */,
 				B852EA5E24E1414E0055F872 /* rainbowlake.jpg in Resources */,
 				B852EA5824E1414E0055F872 /* chincoteague.jpg in Resources */,
+				B8BF192324E2899300ED4A9C /* charleyrivers.jpg in Resources */,
 				B852EA5924E1414E0055F872 /* turtlerock.jpg in Resources */,
 				B852EA5C24E1414E0055F872 /* lakemcdonald.jpg in Resources */,
 				B88A45E024DFD2A60085F364 /* Assets.xcassets in Resources */,

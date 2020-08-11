@@ -24,6 +24,7 @@ import CoreLocation
  "imageName": "turtlerock"
  */
 
+
 struct Landmark: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
@@ -33,7 +34,8 @@ struct Landmark: Hashable, Codable, Identifiable {
     var city: String
     var state: String
     var park: String
-    
+    var isFavorite: Bool
+        
     var locationCoordinate: CLLocationCoordinate2D {
         CLLocationCoordinate2D(latitude: coordinates.latitude, longitude: coordinates.longitude)
     }
@@ -42,6 +44,7 @@ struct Landmark: Hashable, Codable, Identifiable {
         case featured = "Featured"
         case lake = "Lakes"
         case rivers = "Rivers"
+        case mountains = "Mountains"
     }
 }
 
